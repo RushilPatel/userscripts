@@ -12,7 +12,7 @@
 (function() {
     'use strict';
 
-    setTimeout(init, 2000);
+    setTimeout(init, 1000);
 
     function init(){
         console.log("Ran")
