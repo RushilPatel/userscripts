@@ -1,18 +1,18 @@
 // ==UserScript==
-// @name          	Remove RMP blur
+// @name            Remove RMP blur
 // @description     Remove RMP blur
 
-// @author			John Doe
+// @author	    John Doe
 // @namespace       https://realmoney.thestreet.com/
-// @downloadURL		https://raw.githubusercontent.com/RushilPatel/userscripts/main/removeRMPBlur.user.js
+// @downloadURL	    https://raw.githubusercontent.com/RushilPatel/userscripts/main/removeRMPBlur.user.js
 // @match           https://realmoney.thestreet.com/*
 // @require         http://code.jquery.com/jquery-1.8.0.min.js
 // @icon            https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
 
 // @version         1.0
-// @updateURL		https://raw.githubusercontent.com/RushilPatel/userscripts/main/removeRMPBlur.user.js
+// @updateURL	    https://raw.githubusercontent.com/RushilPatel/userscripts/main/removeRMPBlur.user.js
 //
-// @run-at			document-start|document-end
+// @run-at	    document-start|document-end
 // @unwrap
 // ==/UserScript==
 
