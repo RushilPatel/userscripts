@@ -3,9 +3,9 @@
 // @description     Remove RMP blur
 
 // @author	    John Doe
-// @namespace       https://realmoney.thestreet.com/
+// @namespace       https://pro.thestreet.com/
 // @downloadURL	    https://raw.githubusercontent.com/RushilPatel/userscripts/main/removeRMPBlur.user.js
-// @match           https://realmoney.thestreet.com/*
+// @match           https://pro.thestreet.com/*
 // @require         http://code.jquery.com/jquery-1.8.0.min.js
 // @icon            https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
 
